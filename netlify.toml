@@ -1,0 +1,5 @@
+[build]
+  command = "yarn run export"
+  publish = "out"
+  functions = "lambda"
+  functionsSource="functions"
